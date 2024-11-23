@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""edf123.py
-Original file is located at
-    https://colab.research.google.com/drive/1YHjnQX0mCW9mKDkglSUiLwBfS4n0GzLg
-"""
 
 from pyngrok import ngrok
 import os
