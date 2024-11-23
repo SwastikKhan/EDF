@@ -3,4 +3,3 @@ mne
 neurokit2
 streamlit 
 pyngrok
-google-colab
