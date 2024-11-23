@@ -229,4 +229,4 @@ os.system("ngrok authtoken 2m6ibJzBrgq35SdeD3HUR5Bx7tk_2DgqTd3UFQqayShQCgu4e")
 url = ngrok.connect("http://localhost:8501")
 print(f"Access your Streamlit app here: {url}")
 # Expose the Streamlit app via ngrok
-!streamlit run streamlit_app.py
+streamlit run streamlit_app.py
