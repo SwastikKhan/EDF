@@ -3,3 +3,6 @@ mne
 neurokit2
 streamlit 
 pyngrok
+numpy
+matplotlib
+scipy
