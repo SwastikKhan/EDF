@@ -7,11 +7,6 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-!pip install pyedflib
-!pip install mne
-!pip install neurokit2
-!pip install streamlit pyngrok
-
 from pyngrok import ngrok
 import os
 
