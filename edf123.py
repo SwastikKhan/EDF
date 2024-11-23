@@ -4,9 +4,6 @@ Original file is located at
     https://colab.research.google.com/drive/1YHjnQX0mCW9mKDkglSUiLwBfS4n0GzLg
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 from pyngrok import ngrok
 import os
 
